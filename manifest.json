@@ -1,0 +1,39 @@
+{
+  "index.html": {
+    "file": "assets/index.148c3ee3.js",
+    "src": "index.html",
+    "isEntry": true,
+    "dynamicImports": [
+      "src/views/dashboard/MainDashboard1.jsx",
+      "src/views/dashboard/Details.jsx"
+    ],
+    "assets": [
+      "assets/sachivalaya.f89c42ca.jpg",
+      "assets/R&BD.f017c31f.jpg"
+    ]
+  },
+  "src/views/dashboard/MainDashboard1.jsx": {
+    "file": "assets/MainDashboard1.e8ecaeef.js",
+    "src": "src/views/dashboard/MainDashboard1.jsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "index.html",
+      "_Table.93d3b38a.js"
+    ]
+  },
+  "_Table.93d3b38a.js": {
+    "file": "assets/Table.93d3b38a.js",
+    "imports": [
+      "index.html"
+    ]
+  },
+  "src/views/dashboard/Details.jsx": {
+    "file": "assets/Details.94e619af.js",
+    "src": "src/views/dashboard/Details.jsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "index.html",
+      "_Table.93d3b38a.js"
+    ]
+  }
+}
